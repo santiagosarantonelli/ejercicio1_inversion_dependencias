@@ -1,1 +1,1 @@
-# ejercicio1_inversion_dependencias
+# Ejercicio 1, Principios SOLID, inversion de dependencias
